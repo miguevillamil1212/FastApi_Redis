@@ -150,5 +150,5 @@ Redis actúa como un **nodo coordinador centralizado** gracias a que sus operaci
 ---
 
 <div align="center">
-  <sub>Desarrollado con ❤️ — Cotecnova · Sistemas Distribuidos · 2025</sub>
+  <sub>Desarrollado con ❤️ — Cotecnova · Sistemas Distribuidos · 2026</sub>
 </div>
